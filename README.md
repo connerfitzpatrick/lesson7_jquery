@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 14, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Conner Fitzpatrick)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this lesson I learned how to create events on a page using javascript and jQuery)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://connerfitzpatrick.github.io/lesson7_jquery/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to create a global variable.)
+2. (I learned how to add script tags into the body tag.)
+3. (I learned how to control the length of animations.)
 
