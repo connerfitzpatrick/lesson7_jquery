@@ -13,7 +13,7 @@ Web Application Development
 (In this lesson I learned how to create events on a page using javascript and jQuery)
 
 ### View Project Online:
-(https://connerfitzpatrick.github.io/lesson7_jquery/.)
+(https://github.com/connerfitzpatrick/lesson7_jquery)
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to create a global variable.)
